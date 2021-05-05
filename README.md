@@ -2,6 +2,7 @@
 
 _Includes the following modules :_
 
+-   Vite
 -   Vue 3
 -   Vuex
 -   Vue-Router
